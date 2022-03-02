@@ -33,11 +33,12 @@ A Pomodoro-style timer that lets helps keep you on task as you finish your revie
 
 ## Motivanki
 Add an inspiration quote to the homepage of Anki to keep you motivated!
-<img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/Motivanki.jpg?raw=content">
+<img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/NewCardsCounter.jpg?raw=content">
 
 ## New Cards Counter
 Adds a counter to the Anki homepage that counts how many new cards you've reviewed today and this week (starting on a day of your choosing). On Anki 2.1.45+ it can also count a custom search query!
-<img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/NewCardsCounter.jpg?raw=content">
+<img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/Motivanki.jpg?raw=content">
+
 
 
 
